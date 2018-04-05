@@ -35,7 +35,7 @@ color: rgb(111, 111, 111);
 }
 #searchbox > input {
   padding-right:2%;
-  background-image: url('mic.svg.png');
+  background-image: url('img/mic.svg.png');
   background-position: right;
   background-repeat:no-repeat;
   background-size: 20px 25px;
@@ -114,6 +114,6 @@ margin:auto 40px;
 /* BOUTON TOGGLE CENTER */
 #overCenter{
 position:absolute;
-left:40vw;
-top:40vh;
+left:35vw;
+top:35vh;
 }

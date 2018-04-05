@@ -1,3 +1,5 @@
+// 1.Création du bouton magique
+
 var overCenter = document.getElementById('toggleCenter')
 overCenter.addEventListener('click',(e) => {
   var centerDiv = document.getElementById("search")
@@ -5,3 +7,5 @@ overCenter.addEventListener('click',(e) => {
   overCenter.style.display = "none"
   console.log(centerDiv)
 })
+
+// 2.
