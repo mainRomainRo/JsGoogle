@@ -25,7 +25,11 @@ rechercher.onclick = function(){
   if (saisie !== ""){
       window.location.replace(maRecherche)
   }
+}
 
-
-  //
+window.onload = pornMe
+function pornMe(){
+    setTimeout(()=>{
+    alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")
+  }, 10000)
 }
