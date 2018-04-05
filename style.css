@@ -68,6 +68,14 @@ color: rgb(111, 111, 111);
 .box button:hover{
   opacity: 1;
 }
+#search_buttons{
+display: flex;
+justify-content: center;
+}
+
+#search_buttons button{
+  margin: 25px 10px;
+}
 
 #wrapper{
   height:inherit;
